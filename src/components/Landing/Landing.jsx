@@ -1,10 +1,10 @@
 import React from "react";
-import '../Main/Main.css'
+import './Landing.css'
 import Banner from '../../assets/banner2.jpg'
 import ItemListContainer from "../ItemListContainer/ItemListContainer";
 
 
-const Main = () => {
+const Landing = () => {
   return (
     <div className="vh-100">
     <ItemListContainer name="Bienvenidos a VOLTURE"/>
@@ -14,4 +14,4 @@ const Main = () => {
   );
 };
 
-export default Main;
+export default Landing;

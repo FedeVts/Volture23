@@ -41,7 +41,9 @@ Listas desordenadas
 
 > para citar una frase de alguien...
 
-[ x ] Escribir readme
+[X] Escribir readme
+[V] modificar
+
 
 
 [texto alternativo](url-image)
